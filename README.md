@@ -4,7 +4,7 @@
 #### El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la carrera espacial contra Estados Unidos durante la guerra fría. Fue el primer satélite artificial en órbita de la Tierra y dejó un gran legado en el mundo de la aeronáutica. 
 
 
-#### [Información previamente recabada:](https://github.com/SateliteSputnik/Clase-11#readme) :star2: Información previamente recabada :star2:
+#### [:star2: Información previamente recabada :star2:](https://github.com/SateliteSputnik/Clase-11#readme)  
 ---
 
 ## Gráficos e imagenes que serán utilizadas
