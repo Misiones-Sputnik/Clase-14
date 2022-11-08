@@ -21,19 +21,28 @@
 |febrero de 1961	|Sputnik 7	|Fallido	|No recuperado |
 
 ---
+
 ### Linea de tiempo
 ![Linea](https://github.com/SateliteSputnik/Clase-14/blob/main/src/Linea_del_tiempo_URSS_.png)
+
 ---
+
 ### Despliegue del satélite y del cohete
 ![Despliegue](https://i.imgur.com/JbzgB67.gif)
+
 ---
+
 ### Sputnik-1
 Partes:
 ![Partes](https://github.com/SateliteSputnik/Clase-14/blob/main/src/PARTES_SPUTNIK_Mesa_de_trabajo_1_Mesa_de_trabajo_1.svg)
+
 ---
+
 Tamaño:
 ![Tamaño](https://github.com/SateliteSputnik/Clase-14/blob/main/src/sputnik_tamano.svg)
+
 ---
+
 ![Tierra](https://thescientificjournalclub.files.wordpress.com/2017/10/earth-3840x2160-planet-space-10012-e1508210216529.jpg)
 
 
