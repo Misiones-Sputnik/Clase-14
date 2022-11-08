@@ -8,6 +8,7 @@ El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la
 
 ## Gráficos e imagenes que serán utilizadas
 --- 
+### Tabla comparatíva entre los distintos Sputnik 
 |Fecha     |Programa Satélite  |Éxito del despegue  |Estado final  |
 |:---------------------|:--------------|:--------------|:--------------|
 |octubre de 1957	|Sputnik 1	|Exitoso	|Desintegrado |
