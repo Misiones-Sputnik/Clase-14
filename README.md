@@ -25,7 +25,7 @@ El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la
 ---
 ### Sputnik-1
 Partes de Sputnik 1
-![Partes]
+![Partes](https://github.com/SateliteSputnik/Clase-14/blob/main/src/PARTES_SPUTNIK_Mesa_de_trabajo_1_Mesa_de_trabajo_1.svg)
 
 
 ![Tierra](https://thescientificjournalclub.files.wordpress.com/2017/10/earth-3840x2160-planet-space-10012-e1508210216529.jpg)
