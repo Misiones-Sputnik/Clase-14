@@ -27,14 +27,19 @@
 
 ---
 
-### Despliegue del satélite y del cohete
-![Despliegue](https://i.imgur.com/JbzgB67.gif)
+### Animales que fueron enviandos en las misiones
+![Animales](https://github.com/SateliteSputnik/Clase-14/blob/main/src/Animales.png)
 
 ---
 
 ### Sputnik-1
 Partes:
 ![Partes](https://github.com/SateliteSputnik/Clase-14/blob/main/src/PARTES_SPUTNIK_Mesa_de_trabajo_1_Mesa_de_trabajo_1.svg)
+
+---
+
+Despliegue del satélite y del cohete
+![Despliegue](https://i.imgur.com/JbzgB67.gif)
 
 ---
 
