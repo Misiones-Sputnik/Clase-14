@@ -21,6 +21,9 @@
 |febrero de 1961	|Sputnik 7	|Fallido	|No recuperado |
 
 ---
+### Linea de tiempo
+![Linea](https://github.com/SateliteSputnik/Clase-14/blob/main/src/Linea_del_tiempo_URSS_.png)
+---
 ### Despliegue del satélite y del cohete
 ![Despliegue](https://i.imgur.com/JbzgB67.gif)
 ---
