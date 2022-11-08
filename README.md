@@ -19,7 +19,11 @@ El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la
 |febrero de 1961	|Sputnik 7	|Fallido	|No recuperado |
 
 ---
-![Tierra](https://thescientificjournalclub.files.wordpress.com/2017/10/earth-3840x2160-planet-space-10012-e1508210216529.jpg)
+### Despliegue del satélite y del cohete
+![Despliegue](https://i.imgur.com/JbzgB67.gif)
+---
 
+
+![Tierra](https://thescientificjournalclub.files.wordpress.com/2017/10/earth-3840x2160-planet-space-10012-e1508210216529.jpg)
 
 
