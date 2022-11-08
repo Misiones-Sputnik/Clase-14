@@ -1,5 +1,5 @@
 ![header](https://cdn.zendalibros.com/wp-content/uploads/2022/09/lanzamiento-del-sputnik-1.jpg)
-# Clase 14; Programa Sputnik (URSS) :star2:
+# Clase 14; Programa Sputnik (URSS)
  
 #### El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la carrera espacial contra Estados Unidos durante la guerra fría. Fue el primer satélite artificial en órbita de la Tierra y dejó un gran legado en el mundo de la aeronáutica. 
 
