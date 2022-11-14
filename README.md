@@ -4,7 +4,7 @@
  
 #### El proyecto Sputnik fue un programa ruso compuesto por diversas misiones en las cuales se mandaron distintos satélites al espacio con el fin de comprenderlo y ver que tan viable eran los viajes espaciales.
 
-Elegimos este programa por lo interesante que es, por ser el detonante de la carrera espacial que se desató en 1955 durante la guerra fría y por los distintos objetivos que tenía cada una de las misiones. Mandar el primer satélite artificial a órbita de la Tierra dejó un gran legado en el mundo de la aeronáutica y un gran peso en el nombre *Sputnik.
+Elegimos este programa por lo interesante que es, por ser el detonante de la carrera espacial que se desató en 1955 durante la guerra fría y por los distintos objetivos que tenía cada una de las misiones. Mandar el primer satélite artificial a órbita de la Tierra dejó un gran legado en el mundo de la aeronáutica y un gran peso en el nombre *Sputnik.*
 
 ![lanzamiento](https://mf.b37mrtl.ru/actualidad/public_images/2017.10/article/r/1104/90/jpeg/59d61470e9180ff1148b4567.jpg)
 
