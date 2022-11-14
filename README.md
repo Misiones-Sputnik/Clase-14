@@ -1,7 +1,13 @@
 ![header](https://cdn.zendalibros.com/wp-content/uploads/2022/09/lanzamiento-del-sputnik-1.jpg)
-# Clase 14; Programa Sputnik (URSS)
+## Clase 14; Programa Sputnik (URSS)
+# Comienzo de la carrera espacial
  
-#### El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la carrera espacial contra Estados Unidos durante la guerra fría. Fue el primer satélite artificial en órbita de la Tierra y dejó un gran legado en el mundo de la aeronáutica. 
+#### El proyecto Sputnik fue un programa ruso compuesto por diversas misiones en las cuales se mandaron distintos satélites al espacio con el fin de comprenderlo y ver que tan viable eran los viajes espaciales.
+
+Elegimos este programa por lo interesante que es, por ser el detonante de la carrera espacial que se desató en 1955 durante la guerra fría y por los distintos objetivos que tenía cada una de las misiones. Mandar el primer satélite artificial a órbita de la Tierra dejó un gran legado en el mundo de la aeronáutica y un gran peso en el nombre *Sputnik.
+
+![lanzamiento](https://mf.b37mrtl.ru/actualidad/public_images/2017.10/article/r/1104/90/jpeg/59d61470e9180ff1148b4567.jpg)
+
 
 
 #### [:star2: Información previamente recabada :star2:](https://github.com/SateliteSputnik/Clase-11#readme)  
