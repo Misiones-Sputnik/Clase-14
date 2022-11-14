@@ -40,6 +40,7 @@ fue lanzado el 4 de octubre de 1957 (1 año después, EE.UU. creará la NASA). S
 Llevó por primera vez al espacio un animal, Laika, un can callejero que también se convirtió en el primer animal en morir en una órbita. Su misión consistía en medir la radiación solar y rayos cósmicos, como también proporcionar datos sobre el comportamiento de un ser vivo en el medio espacial.
 
 Fue gracias a esto que a lo largo del programa se siguieron mandando animales de prueba para ver que tan viable era ir al espacio. Mandaron más de 50 seres vivos en misiones.
+
 ![Animales](https://github.com/SateliteSputnik/Clase-14/blob/main/src/Animales.png)
 
 ### Sputnik-3
