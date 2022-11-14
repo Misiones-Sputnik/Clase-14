@@ -44,7 +44,9 @@ Fue gracias a esto que a lo largo del programa se siguieron mandando animales de
 ![Animales](https://github.com/SateliteSputnik/Clase-14/blob/main/src/Animales.png)
 
 ### Sputnik-3
-se diseñó para estudiar las capas superiores de la atmósfera y el espacio cósmico. En su interior contenía instrumentos para medir la presión y composición de la atmósfera, la concentración de iones positivos, las magnitudes de la carga eléctrica del Sputnik, la tensión de los campos electrostático y magnéticos terrestres.
+Se diseñó para estudiar las capas superiores de la atmósfera y el espacio cósmico. En su interior contenía instrumentos para medir la presión y composición de la atmósfera, la concentración de iones positivos, las magnitudes de la carga eléctrica del Sputnik, la tensión de los campos electrostático y magnéticos terrestres.
+
+---
 
 Pero hemos de nombres de todas formas los satelites 4 y 5 por su aporte a la aeronáutica
 
