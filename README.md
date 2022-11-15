@@ -48,7 +48,7 @@ Se diseñó para estudiar las capas superiores de la atmósfera y el espacio có
 
 ---
 
-Pero hemos de nombres de todas formas los satelites 4 y 5 por su aporte a la aeronáutica
+Pero hemos de nombrar de todas formas los satelites 4 y 5 por su aporte a la aeronáutica
 
 Sputnik-4 fue una prueba de vuelo del prototipo de nave que se usaría para la primera misión del programa Vostok, el cual llevaba a bordo un maniquí humanoide al igual que contenía instrumentos científicos, un sistema de televisión y voces pregrabadas para monitorear la comunicación. Su finalidad era testear el funcionamiento del sistema de soporte vital y la resistencia al vuelo.
 
